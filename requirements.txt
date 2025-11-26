@@ -1,0 +1,10 @@
+numpy
+scipy
+trimesh
+networkx
+mediapipe
+matplotlib
+tensorflow
+torchvision
+scikit-learn
+opencv-python

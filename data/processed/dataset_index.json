@@ -1,0 +1,4 @@
+{
+  "train": "train/index.json",
+  "test": "test/index.json"
+}
