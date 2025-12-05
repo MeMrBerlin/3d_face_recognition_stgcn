@@ -170,6 +170,20 @@ Visualize facial landmarks and model predictions:
     weighted avg       0.85      0.85      0.85       160
     ```
 
+## Input vs Output Images
+
+### Input Image
+
+![Input Image](results\input_image.jpg)
+
+*Placeholder for input image: Original face image from AFLW2000 dataset.*
+
+### Output Image
+
+![Output Image](results\output_image.png)
+
+*Placeholder for output image: Predicted yaw angle class with landmark overlay.*
+
 ## Project Structure
 ```
 .
